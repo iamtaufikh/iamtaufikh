@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Taufik Hendratmoko</h1>
-<h3 align="center">A Product Designer, Frond-End Developer and Writer</h3>
+<h2> Hi there 👋 </h2>
+<h4> Thanks for visiting my GitHub profile, it's great to meet you here! 😊 </h4>
 
-### 👋 Personal Stuff
+Here are some quick things about me:
 - 🔭 I’m currently learning at <b>freeCodeAcademy.org</b>
 - 📝 I regulary write articles on [medium](https://medium.com/@iamtaufikh)
 - 📫 How to reach me: [@iamtaufikh](https://twitter.com/iamtaufikh)
